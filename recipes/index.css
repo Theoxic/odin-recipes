@@ -1,0 +1,36 @@
+#header {
+    color: purple;
+    background-color: #A1EE2F;
+    font: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.Project-title {
+    color: brown;
+    font-family: "Century Gothic", "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode"; 
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
+img {
+    max-width: 50%;
+    height: auto;
+}
+.first-paragraph {
+    color: black;
+    background-color: grey;
+    font-size: 12px;
+    text-align: justify;
+}
+#first-sub-paragraph {
+    background: powderblue;
+    color: black;
+    font-size: 12px;
+    text-align: justify;
+}
+.second_paragraph {
+    color: black;
+    background-color: skyblue;
+    font-size: 12px;
+    text-align: justify;
+}
